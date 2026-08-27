@@ -1,0 +1,5 @@
+GLOBAL EXPLORER - LIVE IMAGE VERSION
+
+The destination photos in this version use direct image CDN URLs so they render in VS Code Live Server and normal hosted servers.
+
+Requirements: the browser/server must have internet access. If the site is deployed without internet access, replace the image URLs with local JPG/WEBP files.

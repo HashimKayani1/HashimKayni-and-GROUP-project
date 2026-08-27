@@ -1,0 +1,24 @@
+<svg viewBox="0 0 700 400" xmlns="http://www.w3.org/2000/svg" role="img">
+
+  <defs>
+    <linearGradient id="skya" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#153B37"/>
+      <stop offset="100%" stop-color="#0E2C2A"/>
+    </linearGradient>
+    <pattern id="grida" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#F2E9D3" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="700" height="400" fill="url(#skya)"/>
+  <rect width="700" height="400" fill="url(#grida)"/>
+  
+  <path d="M -20.0 410 L -20.0 240.0 L 40.3 202.6 L 207.1 226.5 L 342.5 216.1 L 504.7 217.7 L 647.0 186.5 L 720.0 240.0 L 720.0 410 Z" fill="#1D4B45" fill-opacity="0.55" stroke="#C69A46" stroke-opacity="0.2" stroke-width="1"/><path d="M -20.0 410 L -20.0 296.0 L 31.4 168.8 L 158.1 198.4 L 292.6 253.2 L 398.5 169.8 L 542.3 239.8 L 664.5 220.8 L 720.0 296.0 L 720.0 410 Z" fill="#C69A46" fill-opacity="0.9" stroke="#C69A46" stroke-opacity="1" stroke-width="1.2"/><path d="M 142.1 220.4 L 158.1 198.4 L 174.1 220.4 L 166.1 213.4 L 158.1 222.4 L 150.1 213.4 Z" fill="#F2E9D3" fill-opacity="0.8"/><path d="M 276.6 275.2 L 292.6 253.2 L 308.6 275.2 L 300.6 268.2 L 292.6 277.2 L 284.6 268.2 Z" fill="#F2E9D3" fill-opacity="0.8"/><path d="M 382.5 191.8 L 398.5 169.8 L 414.5 191.8 L 406.5 184.8 L 398.5 193.8 L 390.5 184.8 Z" fill="#F2E9D3" fill-opacity="0.8"/><path d="M 526.3 261.8 L 542.3 239.8 L 558.3 261.8 L 550.3 254.8 L 542.3 263.8 L 534.3 254.8 Z" fill="#F2E9D3" fill-opacity="0.8"/><path d="M 648.5 242.8 L 664.5 220.8 L 680.5 242.8 L 672.5 235.8 L 664.5 244.8 L 656.5 235.8 Z" fill="#F2E9D3" fill-opacity="0.8"/>
+  <g transform="translate(640,60)" opacity="0.55">
+    <circle r="32" fill="none" stroke="#C69A46" stroke-width="1"/>
+    <circle r="26" fill="none" stroke="#C69A46" stroke-width="0.6" stroke-dasharray="2 4"/>
+    <path d="M0 -32 L0 32 M-32 0 L32 0" stroke="#C69A46" stroke-width="0.6"/>
+    <path d="M0 -38 L-3 -30 L3 -30 Z" fill="#C1442E"/>
+  </g>
+  <path d="M -20 248.0 Q 210.0 200.0 385.00000000000006 264.0 T 720 220.00000000000003" fill="none" stroke="#C69A46" stroke-width="1.2" stroke-dasharray="1 7" opacity="0.35"/>
+  <rect x="0.5" y="0.5" width="699" height="399" fill="none" stroke="#C69A46" stroke-opacity="0.25" stroke-width="1"/>
+</svg>
